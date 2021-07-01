@@ -33,7 +33,6 @@
             
   
   <참고 사이트>
-  > 출처 [스프링5.0 마스터](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161751825&orderClick=LAG&Kc=)을 보고 정리한 내용입니다.
   https://helloworld-88.tistory.com/3 (자바란 무엇인가?)
   https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=shtnwls123&logNo=221492961132 (추상화, 상속성, 캡슐화, 다형성)
   https://www.itworld.co.kr/news/110768 (JRE란 무엇인가?)
