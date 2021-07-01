@@ -8,5 +8,5 @@
 * 쉴 땐 확실히 쉬고, contributions를 초록색으로 채우는 것에 집착하지 않는다.
 * reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용한다.
 
-# Java
+## Java
 * [자바란 무엇인가?](https://github.com/socicaI/TIL/blob/main/Java/What%20is%20Java%3F.md)
