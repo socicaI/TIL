@@ -30,11 +30,10 @@
    *프로그램 실행시에 모든 클래스가 로딩되는 것이 아니라 필요한 시점의 클래스를 로딩하여 사용가능.(유연한 애플리케이션 장성가능)
   ●오픈소스 라이브러리가 풍부하다.
    *검증된 오픈소스 라이브러리를 사용하여 애플리케이션을 만들어 유지보수를 쉽고 빠르게 진행가능
-            
+    
   
   <참고 사이트>
-  https://helloworld-88.tistory.com/3 (자바란 무엇인가?)
-  https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=shtnwls123&logNo=221492961132 (추상화, 상속성, 캡슐화, 다형성)
-  https://www.itworld.co.kr/news/110768 (JRE란 무엇인가?)
-  https://cbw1030.tistory.com/276 (컴파일러와 인터프리터의 차이점)
-  
+  >[자바란 무엇인가?](https://helloworld-88.tistory.com/3)
+  >[추상화, 상속성, 캡슐화, 다형성](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=shtnwls123&logNo=221492961132)
+  >[JRE란 무엇인가?](https://www.itworld.co.kr/news/110768)
+  >[컴파일러와 인터프리터의 차이점](https://cbw1030.tistory.com/276)  
