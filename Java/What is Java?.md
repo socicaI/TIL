@@ -39,7 +39,7 @@
     
   
   <참고 사이트>
-  * [자바란 무엇인가?](https://helloworld-88.tistory.com/3)
-  * [추상화, 상속성, 캡슐화, 다형성](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=shtnwls123&logNo=221492961132)
-  * [JRE란 무엇인가?](https://www.itworld.co.kr/news/110768)
-  * [컴파일러와 인터프리터의 차이점](https://cbw1030.tistory.com/276)  
+  * >[자바란 무엇인가?](https://helloworld-88.tistory.com/3)
+  * >[추상화, 상속성, 캡슐화, 다형성](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=shtnwls123&logNo=221492961132)
+  * >[JRE란 무엇인가?](https://www.itworld.co.kr/news/110768)
+  * >[컴파일러와 인터프리터의 차이점](https://cbw1030.tistory.com/276)  
