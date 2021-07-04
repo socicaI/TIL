@@ -15,7 +15,7 @@
 * 인터프리터 방식을 채택하여 일반적인 asp나 perl 언어보다 처리속도가 월등히 빠름
 
 
-<참조 사이트>
+<참고 사이트>
 * >[PHP란 무엇인가?](https://server-talk.tistory.com/25)
 * >[스크립트 언어란?](https://jokergt.tistory.com/81)
 * >[웹 서버(Server)의 기초 개념](https://velog.io/@josworks27/%EC%9B%B9-%EC%84%9C%EB%B2%84Server%EC%9D%98-%EA%B8%B0%EC%B4%88-%EA%B0%9C%EB%85%90)
