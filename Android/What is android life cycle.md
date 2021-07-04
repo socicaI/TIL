@@ -9,4 +9,4 @@
 * onStop: 활동이 더 이상 사용자에게 표시되지 않을 때 호출됩니다.
 * onRestart: 활동이 중지 된 후 시작하기 전에 호출됩니다.
 * onDestroy: 활동이 파괴되기 전에 호출됩니다.
-![image](https://user-images.githubusercontent.com/55188823/124389504-63ec7700-dd22-11eb-8557-d6f613a77d70.png)
+* >![image](https://user-images.githubusercontent.com/55188823/124389504-63ec7700-dd22-11eb-8557-d6f613a77d70.png)
