@@ -10,8 +10,10 @@
 
 ## Java
 * [자바란 무엇일까?](https://github.com/socicaI/TIL/blob/main/Java/What%20is%20Java%3F.md)
+* [equals()와 == 연산자 차이]()
 
 ## PHP
 * [PHP란 무엇일까?](https://github.com/socicaI/TIL/blob/main/PHP/What%20is%20PHP%3F.md)
 
 ## Android
+* [안드로이드 생명주기](https://github.com/socicaI/TIL/blob/main/Android/What%20is%20android%20life%20cycle.md)
