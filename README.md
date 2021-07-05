@@ -10,7 +10,7 @@
 
 ## Java
 * [자바란 무엇일까?](https://github.com/socicaI/TIL/blob/main/Java/What%20is%20Java%3F.md)
-* [equals()와 == 연산자 차이]()
+* [equals()와 == 연산자 차이](https://github.com/socicaI/TIL/blob/main/Java/Difference%20between%20%3D%3D%20and%20.equals()%20method%20in%20Java.md)
 
 ## PHP
 * [PHP란 무엇일까?](https://github.com/socicaI/TIL/blob/main/PHP/What%20is%20PHP%3F.md)
