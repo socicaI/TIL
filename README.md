@@ -24,3 +24,4 @@
 
 ## Commonness
 * [써드파티란?](https://github.com/socicaI/TIL/blob/main/common/What%20is%20Third%20Party.md)
+* [서버 API와 REST API란 무엇일까?](https://github.com/socicaI/TIL/blob/main/common/What%20is%20API%3F.md)
