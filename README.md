@@ -20,6 +20,7 @@
 
 ## Android
 * [안드로이드 생명주기](https://github.com/socicaI/TIL/blob/main/Android/What%20is%20android%20life%20cycle.md)
+* [RecyclerView의 ViewType이란 무엇일까?](https://github.com/socicaI/TIL/blob/main/Android/What%20is%20Recycler%20ViewType.md)
 
 ## Commonness
 * [써드파티란?](https://github.com/socicaI/TIL/blob/main/common/What%20is%20Third%20Party.md)
