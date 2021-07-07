@@ -12,6 +12,9 @@
 * [자바란 무엇일까?](https://github.com/socicaI/TIL/blob/main/Java/What%20is%20Java%3F.md)
 * [equals()와 == 연산자 차이](https://github.com/socicaI/TIL/blob/main/Java/Difference%20between%20%3D%3D%20and%20.equals()%20method%20in%20Java.md)
 
+## Kotlin
+* [컴페니얼 오브젝트란 무엇일까?](https://www.bsidesoft.com/8187)
+
 ## PHP
 * [PHP란 무엇일까?](https://github.com/socicaI/TIL/blob/main/PHP/What%20is%20PHP%3F.md)
 
