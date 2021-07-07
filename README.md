@@ -17,3 +17,6 @@
 
 ## Android
 * [안드로이드 생명주기](https://github.com/socicaI/TIL/blob/main/Android/What%20is%20android%20life%20cycle.md)
+
+## Commonness
+* [써드파티란?](https://github.com/socicaI/TIL/blob/main/common/What%20is%20Third%20Party.md)
