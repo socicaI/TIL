@@ -9,6 +9,9 @@
 * reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용한다.
 
 ## Android
+* [안드로이드 생명주기](https://github.com/socicaI/TIL/blob/main/Android/What%20is%20android%20life%20cycle.md)
+* [RecyclerView의 ViewType이란 무엇일까?](https://github.com/socicaI/TIL/blob/main/Android/What%20is%20Recycler%20ViewType.md)
+
 
 ## Git
 * [소스트리 설치와 사용방법](https://github.com/socicaI/TIL/blob/main/Git/How%20to%20install%20SourceTree%3F.md)
@@ -22,10 +25,6 @@
 
 ## PHP
 * [PHP란 무엇일까?](https://github.com/socicaI/TIL/blob/main/PHP/What%20is%20PHP%3F.md)
-
-## Android
-* [안드로이드 생명주기](https://github.com/socicaI/TIL/blob/main/Android/What%20is%20android%20life%20cycle.md)
-* [RecyclerView의 ViewType이란 무엇일까?](https://github.com/socicaI/TIL/blob/main/Android/What%20is%20Recycler%20ViewType.md)
 
 ## Commonness
 * [써드파티란?](https://github.com/socicaI/TIL/blob/main/common/What%20is%20Third%20Party.md)
