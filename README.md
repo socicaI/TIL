@@ -8,6 +8,11 @@
 * 쉴 땐 확실히 쉬고, contributions를 초록색으로 채우는 것에 집착하지 않는다.
 * reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용한다.
 
+## Android
+
+## Git
+* [소스트리 설치와 사용방법](https://github.com/socicaI/TIL/blob/main/Git/How%20to%20install%20SourceTree%3F.md)
+
 ## Java
 * [자바란 무엇일까?](https://github.com/socicaI/TIL/blob/main/Java/What%20is%20Java%3F.md)
 * [equals()와 == 연산자 차이](https://github.com/socicaI/TIL/blob/main/Java/Difference%20between%20%3D%3D%20and%20.equals()%20method%20in%20Java.md)
